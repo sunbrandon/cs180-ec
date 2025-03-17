@@ -13,7 +13,6 @@ CS180 Extra Credit Assignment
 - Supports multiple input types (strings, numbers, arrays).
 - Handles loops and recursion with a 2-minute timeout for infinite loops.
 - Preserves original code indentation and structure.
-- Reads the test input interactively from the terminal.
 
 ## Installation
 
